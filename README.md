@@ -3,7 +3,7 @@ Assignments for "Functional Programming Principles in Scala"
 
 Part 1 of the Functional Programming in Scala specialization: 
 
-**1. Functional Programming Principles in Scala**
+1. **Functional Programming Principles in Scala**
 
 2. Functional Program Design in Scala
 
