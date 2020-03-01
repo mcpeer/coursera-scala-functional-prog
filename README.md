@@ -1,7 +1,7 @@
 # coursera-scala-functional-prog
-Assignments for "Functional Programming Principles in Scala"
+Assignments for Specialization "Functional Programming in Scala"
 
-Part 1 of the Functional Programming in Scala specialization: 
+5 course modules: 
 
 1. Functional Programming Principles in Scala
 
